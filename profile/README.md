@@ -1,4 +1,4 @@
-## DEMOVIEWER 2023
+![ DEMOVIEWER 2023](https://avatars.githubusercontent.com/u/257018084?s=200&v=4)
 # demoviewer.lol
 ---
 ## Simplistic CS:GO mod that ports older models, sounds and weapons to the newer CS:GO client adding custom skins, and way more.
